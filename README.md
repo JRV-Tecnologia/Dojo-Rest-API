@@ -1,6 +1,6 @@
 "# Dojo-Rest-API" 
 Objetivo macro:</br>
-	Criar API de integração do Node com MySQL; <>
+	Criar API de integração do Node com MySQL;</br>
 
 Estudos:<>
 	1-Iniciar o Node na porta 3000;<>
